@@ -6,10 +6,10 @@
                     <div class="col-xl-7">
                         <div class="single_slider">
                             <div class="slider_text">
-                                <h3>Leading Polish <br> 
-                                    Lawyer in your city</h3>
-                                <p class="name" >- Robert</p>
-                                <a href="#" class="boxed-btn4 ">Make an Appointment</a>
+                                <h3>Alanında Uzman <br> 
+                                    Ceza Avukaatı</h3>
+                                <p class="name" > Av.Eyüphan Polat</p>
+                                <a href="#" class="boxed-btn4 ">Randevu oluşturabilirsiniz</a>
                             </div>
                         </div>
                     </div>

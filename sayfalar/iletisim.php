@@ -71,7 +71,7 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>erenmemiş61@gmail.com</h3>
+                                <h3>eyuphanpolat@gmail.com</h3>
                                 <p>Sorunuzu Bize İstediğiniz Zaman Gönderin</p>
                             </div>
                         </div>
