@@ -39,7 +39,7 @@ $sayfa = $_GET['sayfa'] ?? "index";
     <?php include_once "tema/footer.php";?>
     <!-- footer_end -->
 
-    <?php include_once "tema/footer_script.php";?>
+    <?php include_once "tema/footer_scrpt.php";?>
 
 </body>
 

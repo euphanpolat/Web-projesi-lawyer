@@ -1,91 +1,50 @@
-<footer class="footer">
-        <div class="footer_top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-md-6 col-lg-3">
-                        <div class="footer_widget">
-                            <div class="footer_logo">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="">
-                                </a>
-                            </div>
-                            <p class="footer_text">200, A-block, Green road, USA <br>
-                                +10 367 267 2678 <br>
-                                <a class="domain" href="#">lawyer@contact.com</a></p>
-                            <div class="socail_links">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                    Practice Area
-                            </h3>
-                            <ul>
-                                <li><a href="#">Business law
-                                    </a></li>
-                                <li><a href="#">Finance law</a></li>
-                                <li><a href="#">Education law</a></li>
-                                <li><a href="#">Family law</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                    Useful Links
-                            </h3>
-                            <ul>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#"> Contact</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-lg-4">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                    Subscribe
-                            </h3>
-                            <form action="#" class="newsletter_form">
-                                <input type="text" placeholder="Enter your mail">
-                                <button type="submit">Sign Up</button>
-                            </form>
-                            <p class="newsletter_text">Subscribe newsletter to get updates</p>
-                        </div>
-                    </div>
+<footer class="footer" style="background-color: #0f1622; color: #fff; padding: 60px 0 20px 0;">
+    <div class="container">
+    <div class="row d-flex justify-content-between align-items-start flex-wrap">
+
+            <!-- Sol Blok -->
+            <div class="col-lg-6 d-flex flex-column align-items-center mb-4">
+                <div class="footer_logo mb-3">
+                    <a href="sayfalar/index.php">
+                        <img src="img/logo.png" alt="Logo" style="max-width: 200px;">
+                    </a>
+                </div>
+                <p class="footer_text text-center">
+                    Tirebolu, Giresun, Türkiye <br>
+                    +90 543 190 6365 <br>
+                    </p>
+                <div class="socail_links mt-3">
+                    <ul style="list-style: none; padding-left: 0; display: flex; justify-content: center; gap: 15px;">
+                        <li><a href="https://github.com/euphanpolat" target="_blank" style="color: #fff;"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://x.com/euphanpolatt" target="_blank" style="color: #fff;"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/eyuphanpolat/" target="_blank" style="color: #fff;"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
                 </div>
             </div>
+
+            <!-- Sağ Blok -->
+            <div class="col-lg-6 d-flex flex-column align-items-center mb-4">
+            <h5 style="color: white; border-left: 2px solid #ffffff; padding-left: 10px; margin-top: 80px; margin-bottom: 20px;">İletişim</h5>
+            <ul style="list-style: none; padding-left: 0; line-height: 2; text-align: center;">
+                    <li><i class="fa fa-clock-o" style="width: 20px;"></i> 09:00 - 18:00</li>
+                    <li><i class="fa fa-phone" style="width: 20px;"></i> +90 543 190 6365</li>
+                    <li><i class="fa fa-map-marker" style="width: 20px;"></i> Tirebolu, Giresun</li>
+                    <li><i class="fa fa-envelope" style="width: 20px;"></i> <a href="mailto:eyuphanpolatt@gmail.com" style="color: #c2b280;">eyuphanpolatt@gmail.com</a></li>
+                    <li><i class="fa fa-info-circle" style="width: 20px;"></i> Her türlü yazılım desteği verilir.</li>
+                </ul>
+            </div>
+
         </div>
-        <div class="copy-right_text">
-            <div class="container">
-                <div class="footer_border"></div>
-                <div class="row">
-                    <div class="col-xl-12">
-                        <p class="copy_right text-center">
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        </p>
-                    </div>
-                </div>
+
+        <!-- Alt Telif -->
+        <div class="footer_border mt-5 mb-3" style="border-top: 1px solid #333;"></div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <p class="copy_right" style="color: #ccc;">
+                    &copy; <script>document.write(new Date().getFullYear());</script> Eyüphan Polat - Tüm hakları saklıdır | <i class="fa fa-heart-o" aria-hidden="true"></i> by 
+                    <a href="https://github.com/euphanpolat" target="_blank" style="color: #c2b280;">Developer</a>
+                </p>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>

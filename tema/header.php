@@ -5,8 +5,9 @@
                     <div class="row align-items-center justify-content-between no-gutters">
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo-img">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="">
+                                <a href="/#">
+                                <img src="img/logo.png" alt="Logo" style="width: 180px; height: auto;">
+
                                 </a>
                             </div>
                         </div>
@@ -25,11 +26,12 @@
                         </div>
                         <div class="col-xl-3 col-lg-2 d-none d-lg-block">
                             <div class="social_media_links">
-                                <ul>
-                                    <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                    <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
-                                </ul>
+                            <ul>
+                            <li><a href="https://github.com/euphanpolat" target="_blank"><i class="fa fa-github"></i></a></li>
+                            <li><a href="https://x.com/euphanpolatt" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/eyuphanpolat/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+
                             </div>
                         </div>
                         <div class="col-12">
