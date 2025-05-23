@@ -9,7 +9,7 @@
                                 <h3>Alanında Uzman <br> 
                                     Ceza Avukaatı</h3>
                                 <p class="name" > Av.Eyüphan Polat</p>
-                                <a href="#" class="boxed-btn4 ">Randevu oluşturabilirsiniz</a>
+                                <<a href="http://eyuphanpolat.mir/?sayfa=iletisim" class="boxed-btn4 ">Randevu oluşturabilirsiniz</a>
                             </div>
                         </div>
                     </div>
