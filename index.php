@@ -8,6 +8,7 @@ define("SAYFALAR",
     'blog' => "sayfalar/blog.php",
     'blog_tek' => "sayfalar/blog_tek.php",
     'bulunamadi' => "sayfalar/bulunamadi.php",
+    
 
 ]);
 $sayfa = $_GET['sayfa'] ?? "index";

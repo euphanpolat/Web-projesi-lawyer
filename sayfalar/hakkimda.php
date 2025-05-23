@@ -51,7 +51,7 @@
                                 </div>
                                 <div id="collapseOne" class="collapse" data-parent="#educationAccordion">
                                     <div class="card-body">
-                                        <img src="img/education/master.jpg" alt="Yüksek Lisans" class="img-fluid mb-3">
+                                        <div class="emoji-icon mb-3" style="font-size: 48px;">🎓</div>
                                         <h6>Tez Konusu:</h6>
                                         <p>"Modern Ceza Hukukunda Suç ve Cezaların Özelleştirilmesi"</p>
                                         <h6>Önemli Dersler:</h6>
@@ -78,7 +78,7 @@
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#educationAccordion">
                                     <div class="card-body">
-                                        <img src="img/education/law.jpg" alt="Hukuk Fakültesi" class="img-fluid mb-3">
+                                        <div class="emoji-icon mb-3" style="font-size: 48px;">🎓</div>
                                         <h6>Bitirme Projesi:</h6>
                                         <p>"Türk Ceza Hukukunda Suçun Unsurları"</p>
                                         <h6>Önemli Başarılar:</h6>
@@ -105,7 +105,7 @@
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#educationAccordion">
                                     <div class="card-body">
-                                        <img src="img/education/highschool.jpg" alt="Lise" class="img-fluid mb-3">
+                                        <div class="emoji-icon mb-3" style="font-size: 48px;">🏫</div>
                                         <h6>Başarılar:</h6>
                                         <ul>
                                             <li>Okul Birinciliği</li>
@@ -136,7 +136,7 @@
                                 </div>
                                 <div id="collapseFour" class="collapse" data-parent="#careerAccordion">
                                     <div class="card-body">
-                                        <img src="img/career/office.jpg" alt="Hukuk Bürosu" class="img-fluid mb-3">
+                                        <div class="emoji-icon mb-3" style="font-size: 48px;">🏢</div>
                                         <h6>Önemli Davalar:</h6>
                                         <ul>
                                             <li>KOÇ Şirketi Ticari Davası</li>
@@ -163,7 +163,7 @@
                                 </div>
                                 <div id="collapseFive" class="collapse" data-parent="#careerAccordion">
                                     <div class="card-body">
-                                        <img src="img/career/senior.jpg" alt="Kıdemli Avukat" class="img-fluid mb-3">
+                                        <div class="emoji-icon mb-3" style="font-size: 48px;">👨‍⚖️</div>
                                         <h6>Önemli Projeler:</h6>
                                         <ul>
                                             <li>Uluslararası Ticari Anlaşmazlıklar</li>
@@ -188,7 +188,7 @@
                                 </div>
                                 <div id="collapseSix" class="collapse" data-parent="#careerAccordion">
                                     <div class="card-body">
-                                        <img src="img/career/lawyer.jpg" alt="Avukat" class="img-fluid mb-3">
+                                        <div class="emoji-icon mb-3" style="font-size: 48px;">📚</div>
                                         <h6>İlk Yıllar:</h6>
                                         <ul>
                                             <li>Ceza Davaları</li>
@@ -319,25 +319,25 @@
             </div>
             <div class="row">
                 <div class="col-xl-4 col-md-6">
-                    <div class="single_certificate">
+                    <a href="https://www.istanbulbarosu.org.tr" class="single_certificate" style="text-decoration: none; color: inherit;">
                         <i class="flaticon-certificate"></i>
                         <h4>İstanbul Barosu</h4>
                         <p>Baro Üyeliği</p>
-                    </div>
+                    </a>
                 </div>
                 <div class="col-xl-4 col-md-6">
-                    <div class="single_certificate">
+                    <a href="https://www.tchd.org.tr" class="single_certificate" style="text-decoration: none; color: inherit;">
                         <i class="flaticon-medal"></i>
-                        <h4>Ceza Hukuku Derneği</h4>
+                        <h4> Türk Ceza Hukuku Derneği</h4>
                         <p>Kurucu Üye</p>
-                    </div>
+                    </a>
                 </div>
                 <div class="col-xl-4 col-md-6">
-                    <div class="single_certificate">
+                    <a href="https://www.ila-hq.org/" class="single_certificate" style="text-decoration: none; color: inherit;">
                         <i class="flaticon-award"></i>
                         <h4>Uluslararası Hukuk Derneği</h4>
                         <p>Üye</p>
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -357,9 +357,9 @@
             </div>
             <div class="row">
                 <div class="col-xl-6 col-md-6">
-                    <div class="personal_details">
+                    <div class="personal_details text-left">
                         <h4>İlgi Alanlarım</h4>
-                        <ul>
+                        <ul class="list-unstyled">
                             <li><i class="fa fa-book"></i> Hukuk Literatürü</li>
                             <li><i class="fa fa-graduation-cap"></i> Seminer ve Konferanslar</li>
                             <li><i class="fa fa-globe"></i> Uluslararası Hukuk Çalışmaları</li>
@@ -368,9 +368,9 @@
                     </div>
                 </div>
                 <div class="col-xl-6 col-md-6">
-                    <div class="personal_hobbies">
+                    <div class="personal_hobbies text-left">
                         <h4>Hobilerim</h4>
-                        <ul>
+                        <ul class="list-unstyled">
                             <li><i class="fa fa-book"></i> Kitap Okuma</li>
                             <li><i class="fa fa-plane"></i> Seyahat</li>
                             <li><i class="fa fa-music"></i> Klasik Müzik</li>
@@ -383,7 +383,40 @@
     </div>
     <!-- kişisel_bilgiler-end -->
 
-    
+    <!-- otobiyografi-start -->
+    <div class="autobiography" style="margin-top: 80px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="section_title text-center mb-60">
+                        <h3>Otobiyografi</h3>
+                        <p>Hayat hikayem ve mesleki yolculuğum</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="autobiography_content text-left">
+                        <p>1983 yılında Şanlıurfa'da doğdum. İlk ve orta öğrenimimi İstanbul'da tamamladıktan sonra, İstanbul Atatürk Anadolu Lisesi'nde eğitimime devam ettim. Lise yıllarımda münazara takımı kaptanlığı ve öğrenci konseyi üyeliği gibi sosyal aktivitelerde bulundum. Okul birinciliği ile mezun oldum.</p>
+
+                        <p>2001 yılında Ankara Üniversitesi Hukuk Fakültesi'ne başladım. Fakülte yıllarımda hukuk kulübü başkanlığı yaptım ve moot court yarışmalarında ikincilik elde ettim. "Türk Ceza Hukukunda Suçun Unsurları" konulu bitirme projem ile fakülte birincisi olarak mezun oldum.</p>
+
+                        <p>2005 yılında İstanbul Üniversitesi Hukuk Fakültesi'nde Ceza Hukuku alanında yüksek lisans eğitimime başladım. "Modern Ceza Hukukunda Suç ve Cezaların Özelleştirilmesi" konulu tezimi tamamlayarak 2010 yılında mezun oldum.</p>
+
+                        <p>Mesleki kariyerime 2010 yılında ATEŞ Hukuk Bürosu'nda başladım. İlk yıllarımda ceza davaları, aile hukuku ve icra-iflas davaları üzerinde çalıştım. 2015 yılında AKYOL Hukuk Bürosu'na geçiş yaparak kıdemli avukat olarak çalışmaya başladım. Bu dönemde uluslararası ticari anlaşmazlıklar, şirket birleşme ve devralmaları ile kurumsal danışmanlık alanlarında uzmanlaştım.</p>
+
+                        <p>2020 yılında kendi hukuk büromu kurarak bağımsız avukatlık yapmaya başladım. Büromuz, özellikle ceza hukuku alanında uzmanlaşmış bir ekip ile hizmet vermektedir. Kurduğumuz büro, 3 yıl içinde İstanbul'un en başarılı 10 hukuk bürosu arasına girmeyi başardı.</p>
+
+                        <p>Mesleki gelişimim için İstanbul Barosu, Türk Ceza Hukuku Derneği ve Uluslararası Hukuk Derneği üyeliklerimi sürdürmekteyim. Ayrıca çeşitli seminer ve konferanslarda konuşmacı olarak yer almakta, hukuk literatürüne katkıda bulunmaktayım.</p>
+
+                        <p>Meslek hayatım boyunca edindiğim deneyim ve uzmanlıkla, müvekkillerime en iyi hizmeti sunmayı hedeflemekteyim. Ceza hukuku alanındaki derin bilgi birikimim ve sürekli kendimi geliştirme çabam ile hukuk sistemine katkı sağlamaya devam ediyorum.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- otobiyografi-end -->
+
     <div class="appointment_area">
         <div class="container">
             <div class="row align-items-center">

@@ -41,7 +41,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 <p class="copy_right" style="color: #ccc;">
-                    &copy; <script>document.write(new Date().getFullYear());</script> Eyüphan Polat - Tüm hakları saklıdır | <i class="fa fa-heart-o" aria-hidden="true"></i> by 
+                    &copy; <script>document.write(new Date().getFullYear());</script> Polat Hukuk Bürosu - Tüm hakları saklıdır | <i class="fa fa-heart-o" aria-hidden="true"></i> by 
                     <a href="https://github.com/euphanpolat" target="_blank" style="color: #c2b280;">Developer</a>
                 </p>
             </div>
