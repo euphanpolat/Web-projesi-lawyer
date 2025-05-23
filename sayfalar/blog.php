@@ -510,3 +510,24 @@ function showBlogContent(type) {
 }
 </script>
 
+<div class="header_top">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-md-6">
+                <div class="header_top_left">
+                    <p>İstanbul'da Hukuk Danışmanlığı</p>
+                </div>
+            </div>
+            <div class="col-xl-6 col-md-6">
+                <div class="header_top_right">
+                    <ul>
+                        <li><a href="https://g.co/kgs/NZw9zjX" target="_blank">Ofisimiz</a></li>
+                        <li><a href="tel:+902121234567">+90 212 123 45 67</a></li>
+                        <li><a href="mailto:info@polathukuk.com">info@polathukuk.com</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -11,7 +11,7 @@
                                 Güvenilir Danışmanlık</h3>
                                      
                                 <p>"Doğru Bilgi, Etkin Çözüm, Profesyonel Danışmanlık"</p>
-                                <a href="#" class="boxed-btn4 ">Daha fazlası...</a>
+                                <a href="http://eyuphanpolat.mir/?sayfa=iletisim" class="boxed-btn4 ">Daha fazlası...</a>
                             </div>
                         </div>
                     </div>

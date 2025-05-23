@@ -35,23 +35,23 @@ $(document).ready(function(){
             },
             messages: {
                 name: {
-                    required: "come on, you have a name, don't you?",
-                    minlength: "your name must consist of at least 2 characters"
+                    required: "Hadi ama, bir ismin vardır herhalde?",
+                    minlength: "İsmin en az 2 harf olmalı, lakap sayılmaz!"
                 },
                 subject: {
-                    required: "come on, you have a subject, don't you?",
-                    minlength: "your subject must consist of at least 4 characters"
+                    required: "Bir konun yoksa neden yazıyorsun ki?",
+                    minlength: "Konu en az 4 karakter olmalı, 'Merhaba' bile yetiyor!"
                 },
                 number: {
-                    required: "come on, you have a number, don't you?",
-                    minlength: "your Number must consist of at least 5 characters"
+                    required: "Bir numara ver, casus değiliz ki!",
+                    minlength: "Numara dediğin en az 5 haneli olur, değil mi?"
                 },
                 email: {
-                    required: "no email, no message"
+                    required: "E-posta olmadan mesaj yollayamam... teknolojiye aykırı!"
                 },
                 message: {
-                    required: "um...yea, you have to write something to send this form.",
-                    minlength: "thats all? really?"
+                    required: "Yani... bir şeyler yazmalısın ki gönderebileyim!",
+                    minlength: "Bu kadar mı? Daha fazlasını bekliyordum açıkçası!"
                 }
             },
             submitHandler: function(form) {
